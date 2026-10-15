@@ -1,0 +1,8 @@
+.git
+**/node_modules
+client
+!client/package.json
+server/data
+**/.env
+*.pdf
+*.md
